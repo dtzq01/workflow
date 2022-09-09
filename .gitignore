@@ -36,3 +36,8 @@ bazel-*
 
 # vscode configs
 .vscode
+_include
+_lib
+build
+build.cmake
+*.und
